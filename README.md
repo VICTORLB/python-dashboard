@@ -19,6 +19,6 @@ To get a local copy up and running, follow these simple steps.
 - pip/pip3
 
 
-## Model
+## Line Chart Sample
 ![Architecture Diagram](assets/posts-and-users-dash.png)
 
