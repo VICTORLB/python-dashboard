@@ -18,9 +18,3 @@ To get a local copy up and running follow these simple steps.
 - PostgreSQL
 - pip/pip3
 
-### Installation
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/your_username_/python-dashboard.git
