@@ -1,7 +1,5 @@
 # Dashboard (Users x Posts)
 
-# Dashboard
-
 This repository contains the backend and dashboard for visualizing post and user activity data for the Posts platform.
 
 ## Overview
